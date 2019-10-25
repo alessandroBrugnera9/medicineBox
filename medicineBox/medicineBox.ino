@@ -51,7 +51,7 @@ public:
 
 
 
-Vector<int> scheduleHours;
+Vector<int> scheduleHours; //TODO ver se o vetor ta funcionando
 Vector<int> scheduleMinutes;
 Vector<int> scheduleMedicine;
 int daily;
