@@ -1,0 +1,5 @@
+D:/Ale/Projetos/medicineBox/cmake-build-debug/CMakeFiles/uno_CORE.dir
+D:/Ale/Projetos/medicineBox/cmake-build-debug/CMakeFiles/medicineBox.dir
+D:/Ale/Projetos/medicineBox/cmake-build-debug/CMakeFiles/medicineBox-size.dir
+D:/Ale/Projetos/medicineBox/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ale/Projetos/medicineBox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
